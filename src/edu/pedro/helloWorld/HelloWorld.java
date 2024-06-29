@@ -1,4 +1,4 @@
-package edu.pedro.helloworld;
+package edu.pedro.helloWorld;
 
 public class HelloWorld {
     public static void main(String[] args) {

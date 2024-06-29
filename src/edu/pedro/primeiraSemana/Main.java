@@ -1,4 +1,4 @@
-package edu.pedro.primeirasemana;
+package edu.pedro.primeiraSemana;
 
 import java.util.Scanner;
 

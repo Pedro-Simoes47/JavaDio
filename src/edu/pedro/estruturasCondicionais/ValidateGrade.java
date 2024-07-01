@@ -1,4 +1,4 @@
-package edu.pedro.primeiraSemana;
+package edu.pedro.estruturasCondicionais;
 
 import java.util.Scanner;
 
@@ -11,6 +11,7 @@ public class ValidateGrade {
         System.out.printf(passedOrNot);
         sc.close();
     }
+
     public static String gradeValidator(double grade){
         if(grade < 6) {
             return "You have not passed! You need to study more!";
@@ -22,4 +23,5 @@ public class ValidateGrade {
             return "You have passed congratulations!";
         }
     }
+
 }
